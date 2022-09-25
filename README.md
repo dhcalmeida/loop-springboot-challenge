@@ -7,8 +7,7 @@ with [OpenAPI 3.0](https://swagger.io/specification/)
 
 ### How to run
 
-Open OS command line in folder containing project JAR and execute (
-requires [java](https://www.java.com/en/download/help/download_options.html)) :
+Open OS command line in folder containing project JAR and execute (requires [java 17](https://www.java.com/en/download/help/download_options.html)) :
 
 ```sh
 java -jar challenge-0.0.1-SNAPSHOT.jar
