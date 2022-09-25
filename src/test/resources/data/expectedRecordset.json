@@ -1,0 +1,42 @@
+[
+  {
+    "brandId": 1,
+    "curr": "EUR",
+    "endDate": "2020-12-31T23:59:59",
+    "price": 35.50,
+    "priceListId": 1,
+    "priority": 0,
+    "productId": 35455,
+    "startDate": "2020-06-14T00:00:00"
+  },
+  {
+    "brandId": 1,
+    "curr": "EUR",
+    "endDate": "2020-06-14T18:30:00",
+    "price": 25.45,
+    "priceListId": 2,
+    "priority": 1,
+    "productId": 35455,
+    "startDate": "2020-06-14T15:00:00"
+  },
+  {
+    "brandId": 1,
+    "curr": "EUR",
+    "endDate": "2020-06-15T11:00:00",
+    "price": 30.50,
+    "priceListId": 3,
+    "priority": 1,
+    "productId": 35455,
+    "startDate": "2020-06-15T00:00:00"
+  },
+  {
+    "brandId": 1,
+    "curr": "EUR",
+    "endDate": "2020-12-31T23:59:59",
+    "price": 38.95,
+    "priceListId": 4,
+    "priority": 1,
+    "productId": 35455,
+    "startDate": "2020-06-15T16:00:00"
+  }
+]
